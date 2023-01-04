@@ -2,7 +2,11 @@
 title: 关于我
 description: 乐栖
 date: '2023-01-04'
-
+menu:
+    main:
+        weight: -60
+        params: 
+            icon: about
 ---
 
 布袋戏/假面骑士
