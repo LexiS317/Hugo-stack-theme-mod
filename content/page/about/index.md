@@ -6,7 +6,7 @@ menu:
     main:
         weight: -70
         params: 
-            icon: home
+            icon: user
 ---
 
 布袋戏/假面骑士
