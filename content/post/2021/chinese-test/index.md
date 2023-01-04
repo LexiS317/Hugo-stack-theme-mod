@@ -6,9 +6,7 @@ slug: test-chinese
 image: helena-hertz-wWZzXlDpMog-unsplash.jpg
 draft: true
 hidden: true
-categories:
-    - Test
-    - 测试
+
 ---
 ## 短代码测试
 
