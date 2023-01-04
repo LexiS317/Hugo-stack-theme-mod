@@ -2,7 +2,7 @@ baseurl: https://example.com
 languageCode: en-us
 theme: stack
 paginate: 5
-title: Example Site
+title: 温水两份
 
 # Change it to your Disqus shortname before using
 disqusShortname: stack
@@ -27,7 +27,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:
+    favicon: /img/favicon.png 
 
     footer:
         since: 2023
