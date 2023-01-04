@@ -1,6 +1,6 @@
 ---
 title: "First Kiss"
-description: 
+description: 暧昧暧昧暧昧——
 date: 2023-01-04T13:25:13+08:00
 image: 
 math: 
