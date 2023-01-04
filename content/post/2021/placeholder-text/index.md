@@ -1,6 +1,6 @@
 ---
 draft: true
-
+hidden: true
 ---
 +++
 author = "Hugo Authors"
