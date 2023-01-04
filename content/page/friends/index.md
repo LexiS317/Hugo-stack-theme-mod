@@ -6,12 +6,12 @@ slug: "links"
 layout: links
 comments: false
 license: false
-menu: 
+<!-- menu: 
     main:
         name: friends
         weight: -90
         params:
-            icon: home
+            icon: home -->
         
 ---
 <style>
