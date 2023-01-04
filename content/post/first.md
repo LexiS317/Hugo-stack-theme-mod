@@ -7,6 +7,8 @@ math:
 license: 
 categories:
   - 布袋戏
+tags:
+  - 琦意
 hidden: false
 comments: true
 draft: false
