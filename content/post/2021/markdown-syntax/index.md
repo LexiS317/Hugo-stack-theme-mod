@@ -1,3 +1,8 @@
+---
+draft: true
+
+---
+
 +++
 author = "Hugo Authors"
 title = "Markdown Syntax Guide"
