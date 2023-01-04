@@ -32,3 +32,10 @@ draft: true
 > 这么沉痛的呵护 我怎么能翱翔  
 >
 > *[最暖的憂傷 - 田馥甄](https://www.youtube.com/watch?v=3aypp_YlBzI)*
+<<<<<<< Updated upstream
+=======
+> 
+
+- To enable KaTex globally set the parameter `math` to `true` in a project's configuration
+- To enable KaTex on a per page basis include the parameter `math: true` in content files
+>>>>>>> Stashed changes
