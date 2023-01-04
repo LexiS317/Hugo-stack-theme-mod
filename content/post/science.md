@@ -1,3 +1,17 @@
+---
+title: "科学上网纪实"
+description: 必备技能
+date: 2023-01-04T17:37:13+08:00
+image: 
+math: 
+license: 
+categories:
+  - study
+hidden: false
+comments: true
+draft: false
+---
+
 # 科学上网，科技强国
 
 参考贴：https://writee.org/alcoholicalchemist/oxkya7im4b
