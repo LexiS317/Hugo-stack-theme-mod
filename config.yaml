@@ -38,7 +38,7 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: :heart:
+        # emoji: 
         subtitle: Be really, really soft and fluffy.
         avatar:
             enabled: true
