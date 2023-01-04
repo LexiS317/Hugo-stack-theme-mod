@@ -4,7 +4,7 @@ description: 乐栖
 date: '2023-01-04'
 menu:
     main:
-        weight: -90
+        weight: -70
         params: 
             icon: home
 ---
