@@ -2,7 +2,7 @@
 title: 关于我
 description: 乐栖
 date: '2023-01-04'
-comment: false
+comments: false
 menu:
     main:
         weight: -70
