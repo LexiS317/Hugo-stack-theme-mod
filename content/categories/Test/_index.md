@@ -1,7 +1,0 @@
----
-title: "Test"
-slug: "test"
-style:
-    background: "#82111f"
-    color: "#fff"
----
