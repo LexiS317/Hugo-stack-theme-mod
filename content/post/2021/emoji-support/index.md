@@ -1,5 +1,6 @@
 ---
 draft: true
+hidden: true
 ---
 
 +++
