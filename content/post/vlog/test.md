@@ -9,7 +9,7 @@ math:
 license: 
 categories:
   - study
-hidden: false
+hidden: true
 comments: true
 draft: false
 ---
