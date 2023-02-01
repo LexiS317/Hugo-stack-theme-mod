@@ -4,6 +4,7 @@ description: 测试
 date: 2023-02-01T10:28:54+08:00
 image: 
 video: true
+iframe: true
 math: 
 license: 
 categories:
@@ -15,4 +16,8 @@ draft: false
 
 # 测试
 
-<video id="video" controls="" src="/vlog/test.mp4" preload="none"></video>
+<iframe height=498 width=510 src="vlog/test.mp4" frameborder=0 allowfullscreen></iframe>
+
+<video id="video" controls="" preload="none">
+  <source id="mp4" src="vlog/test.mp4" type="video/mp4">
+</video>
