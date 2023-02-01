@@ -18,9 +18,10 @@ draft: false
 
 <iframe height=498 width=510 src="https://www.bilibili.com/video/BV12D4y1H7bh/" frameborder=0 allowfullscreen></iframe>
 </br>
-<video id="video" controls="" preload="none">
+
+<!-- <video id="video" controls="" preload="none">
   <source id="mp4" src="https://www.bilibili.com/video/BV12D4y1H7bh/" type="video/mp4">
 </video>
 
 </br>
-<video src="https://www.bilibili.com/video/BV12D4y1H7bh/" controls=""></video>
+<video src="https://www.bilibili.com/video/BV12D4y1H7bh/" controls=""></video> -->
