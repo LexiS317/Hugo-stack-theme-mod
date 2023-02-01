@@ -16,10 +16,10 @@ draft: false
 
 # 测试
 
-<iframe height=498 width=510 src="/test.mp4" frameborder=0 allowfullscreen></iframe>
+<iframe height=498 width=510 src="../test.mp4" frameborder=0 allowfullscreen></iframe>
 </br>
 <video id="video" controls="" preload="none">
-  <source id="mp4" src="test.mp4" type="video/mp4">
+  <source id="mp4" src="../test.mp4" type="video/mp4">
 </video>
 
 </br>
