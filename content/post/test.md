@@ -15,4 +15,4 @@ draft: false
 
 # 测试
 
-<video id="video" controls="" src="../vlog/test.mp4" preload="none"></video>
+<video src="../vlog/test.mp4"></video>
