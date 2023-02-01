@@ -19,8 +19,8 @@ draft: false
 <iframe height=498 width=510 src="../test.mp4" frameborder=0 allowfullscreen></iframe>
 </br>
 <video id="video" controls="" preload="none">
-  <source id="mp4" src="../test.mp4" type="video/mp4">
+  <source id="mp4" src="https://www.bilibili.com/video/BV12D4y1H7bh/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click" type="video/mp4">
 </video>
 
 </br>
-<video src="../test.mp4" controls=""></video>
+<video src="https://www.bilibili.com/video/BV12D4y1H7bh/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click" controls=""></video>
