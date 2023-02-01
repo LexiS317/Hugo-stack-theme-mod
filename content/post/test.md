@@ -15,4 +15,4 @@ draft: false
 
 # 测试
 
-<video src="../vlog/test.mp4"></video>
+<video id="video" src="vlog/test.mp4"></video>
